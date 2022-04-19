@@ -1,0 +1,17 @@
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.deps.json
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.dll
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.pdb
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\LivrosAnimados.Core.dll
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.dll
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.dll
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.pdb
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.pdb
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\LivrosAnimados.Core.pdb
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.csproj.CopyComplete
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.dll
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.pdb

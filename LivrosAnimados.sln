@@ -13,9 +13,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identidade", "Identidade", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gameficacao", "Gameficacao", "{B79828DF-94F9-4E85-94F1-213CC14B2522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrosAnimados.Identidade.Domain", "src\LivrosAnimados.Identidade.Domain\LivrosAnimados.Identidade.Domain.csproj", "{BCE148BC-38FB-4A82-8147-3D023D315C86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrosAnimados.Identidade.Domain", "src\LivrosAnimados.Identidade.Domain\LivrosAnimados.Identidade.Domain.csproj", "{BCE148BC-38FB-4A82-8147-3D023D315C86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrosAnimados.Core", "src\LivrosAnimados.Core\LivrosAnimados.Core.csproj", "{01119707-4E62-4543-B3B4-34DB87D4678C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrosAnimados.Core", "src\LivrosAnimados.Core\LivrosAnimados.Core.csproj", "{01119707-4E62-4543-B3B4-34DB87D4678C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrosAnimados.Identidade.Repository", "src\LivrosAnimados.Identidade.Repository\LivrosAnimados.Identidade.Repository.csproj", "{340823B2-7DDC-4684-9254-DA3577751967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrosAnimados.Identidade.API", "LivrosAnimados.Identidade.API\LivrosAnimados.Identidade.API.csproj", "{565F271E-FBF3-44EA-BF1A-DD5906424197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrosAnimados.Identidade.CrossCutingIoC", "src\LivrosAnimados.Identidade.CrossCutingIoC\LivrosAnimados.Identidade.CrossCutingIoC.csproj", "{B0D2C83B-53C9-49E3-AF64-65B4E3F6DFEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +37,18 @@ Global
 		{01119707-4E62-4543-B3B4-34DB87D4678C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01119707-4E62-4543-B3B4-34DB87D4678C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01119707-4E62-4543-B3B4-34DB87D4678C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340823B2-7DDC-4684-9254-DA3577751967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340823B2-7DDC-4684-9254-DA3577751967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340823B2-7DDC-4684-9254-DA3577751967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340823B2-7DDC-4684-9254-DA3577751967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565F271E-FBF3-44EA-BF1A-DD5906424197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565F271E-FBF3-44EA-BF1A-DD5906424197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565F271E-FBF3-44EA-BF1A-DD5906424197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565F271E-FBF3-44EA-BF1A-DD5906424197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D2C83B-53C9-49E3-AF64-65B4E3F6DFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D2C83B-53C9-49E3-AF64-65B4E3F6DFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D2C83B-53C9-49E3-AF64-65B4E3F6DFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D2C83B-53C9-49E3-AF64-65B4E3F6DFEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +59,9 @@ Global
 		{B79828DF-94F9-4E85-94F1-213CC14B2522} = {4E0FAB61-E8E0-4EF9-9008-5BC57E726F53}
 		{BCE148BC-38FB-4A82-8147-3D023D315C86} = {636A260B-1D63-4D2F-9B4A-8FE18B9EF267}
 		{01119707-4E62-4543-B3B4-34DB87D4678C} = {EFA410CE-A44B-46E6-8D28-763C9B6E9766}
+		{340823B2-7DDC-4684-9254-DA3577751967} = {636A260B-1D63-4D2F-9B4A-8FE18B9EF267}
+		{565F271E-FBF3-44EA-BF1A-DD5906424197} = {636A260B-1D63-4D2F-9B4A-8FE18B9EF267}
+		{B0D2C83B-53C9-49E3-AF64-65B4E3F6DFEE} = {636A260B-1D63-4D2F-9B4A-8FE18B9EF267}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {02346F30-F895-45A2-AC12-FC3C76B652E8}

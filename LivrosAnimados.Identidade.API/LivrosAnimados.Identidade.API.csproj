@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\src\LivrosAnimados.Identidade.CrossCutingIoC\LivrosAnimados.Identidade.CrossCutingIoC.csproj" />
+    <ProjectReference Include="..\src\LivrosAnimados.Identidade.Repository\LivrosAnimados.Identidade.Repository.csproj" />
+  </ItemGroup>
+
+
+</Project>

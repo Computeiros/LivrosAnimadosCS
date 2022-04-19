@@ -1,0 +1,12 @@
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.deps.json
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.dll
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.pdb
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\bin\Debug\netcoreapp3.1\LivrosAnimados.Core.dll
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\bin\Debug\netcoreapp3.1\LivrosAnimados.Core.pdb
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.dll
+C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Domain\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.pdb

@@ -1,3 +1,10 @@
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.csproj.AssemblyReference.cache
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.AssemblyInfoInputs.cache
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.AssemblyInfo.cs
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.csproj.CoreCompileInputs.cache
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.dll
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.pdb
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.deps.json
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.runtimeconfig.json
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.runtimeconfig.dev.json
@@ -16,10 +23,3 @@ C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.dll
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.pdb
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.genruntimeconfig.cache
-C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.csproj.AssemblyReference.cache
-C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.GeneratedMSBuildEditorConfig.editorconfig
-C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.AssemblyInfoInputs.cache
-C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.AssemblyInfo.cs
-C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.csproj.CoreCompileInputs.cache
-C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.dll
-C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.pdb

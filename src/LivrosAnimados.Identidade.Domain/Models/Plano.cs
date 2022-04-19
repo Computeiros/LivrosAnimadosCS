@@ -6,26 +6,22 @@ namespace LivrosAnimados.Identidade.Domain.Models
 {
     public class Plano : Entity
     {
-        public Plano(ETipoPlano tipo, decimal valor, Guid usuarioId)
+        public Plano(ETipoPlano tipo, decimal valor)
         {
             DataAssinatura = DateTime.Now;
             DataProximoVencimento = DateTime.Now.AddDays(30);
             Tipo = tipo;
             Ativo = true;
             Valor = valor;
-            UsuarioId = usuarioId;
 
             Validar();
         }
-
-        public DateTime DataAssinatura { get; private set; }
-        public DateTime DataProximoVencimento { get; private set; }
-        public ETipoPlano Tipo { get; private set; }
-        public bool Ativo { get; private set; }
-        public decimal Valor { get; private set; }
-        public Guid UsuarioId { get; private set; }
-
-        public Usuario Usuario { get; private set; }
+        
+        public DateTime DataAssinatura { get; protected set; }
+        public DateTime DataProximoVencimento { get; protected set; }
+        public ETipoPlano Tipo { get; protected set; }
+        public bool Ativo { get; protected set; }
+        public decimal Valor { get; protected set; }
 
         private void Validar()
         {

@@ -1,33 +1,38 @@
 ﻿using LivrosAnimados.Core.DomainObjects;
+using LivrosAnimados.Identidade.Domain.Enums;
 using System;
 
 namespace LivrosAnimados.Identidade.Domain.Models
 {
     public class Usuario : Entity, IAggregateRoot
     {
-        public Usuario(string nome, DateTime dataNascimento, decimal moedas, Plano plano)
+        public Usuario(string nome, DateTime dataNascimento, string email)
         {
             Nome = nome;
             DataNascimento = dataNascimento;
-            Moedas = moedas;
-            PlanoId = plano.Id;
-            Plano = plano;
+            Moedas = default;
+            Plano = new Plano(ETipoPlano.Free, 20m);
+            PlanoId = Plano.Id;
             DataCadastro = DateTime.Now;
+            Email = email;
 
             Validar();
         }
 
-        public string Nome { get; private set; }
-        public DateTime DataNascimento { get; private set; }
-        public DateTime DataCadastro { get; private set; }
-        public decimal Moedas { get; private set; }
-        public Guid PlanoId { get; private set; }
-        public bool Ativo { get; private set; }
+        public string Nome { get; protected set; }
+        public string Email { get; protected set; }
+        public DateTime DataNascimento { get; protected set; }
+        public DateTime DataCadastro { get; protected set; }
+        public decimal Moedas { get; protected set; }
+        public Guid PlanoId { get; protected set; }
+        public bool Ativo { get; protected set; }
 
-        public Plano Plano { get; private set; }
+        public Plano Plano { get; protected set; }
 
         private void Validar()
         {
+            // TODO: Validar se e-mail é válido
+
             if (string.IsNullOrEmpty(Nome))
                 throw new DomainException("Nome do usuário não pode estar vazio");
 

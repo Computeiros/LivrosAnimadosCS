@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "f34k2PcXxO6jnfkxxhOgX2UGhebHxSaUzRfvIvVBOhmTk2yffZl8xZCEayfSE3l3EhB6/Yvmtp66vncaJ/LVKw==",
+  "dgSpecHash": "EUkgyaDdytJ7osuf4qg1C3hZAB4Nn9erjaINWTX41IPioCKYFJMyq0BtKLFsjSdi2/8cGtZGsO7IEqIa8RMulw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.Domain\\LivrosAnimados.Identidade.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.Domain\\LivrosAnimados.Identidade.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\espin\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\espin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,8 +8,4 @@
     <ProjectReference Include="..\LivrosAnimados.Core\LivrosAnimados.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>

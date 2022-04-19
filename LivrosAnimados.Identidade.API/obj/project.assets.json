@@ -2,6 +2,27 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "MediatR/10.0.1": {
+        "type": "package",
+        "dependencies": {
+          "MediatR.Contracts": "1.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        }
+      },
+      "MediatR.Contracts/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -1498,6 +1519,9 @@
       "LivrosAnimados.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR": "10.0.1"
+        },
         "compile": {
           "bin/placeholder/LivrosAnimados.Core.dll": {}
         },
@@ -1552,6 +1576,36 @@
     }
   },
   "libraries": {
+    "MediatR/10.0.1": {
+      "sha512": "vnjbk4giDJzJelh34Ygt0eorApCKrRFB7j0pauFPY1oxfO3cEZ7FugBrIOjCM76SDGTOmPFfbfmVnz1t3iFrGA==",
+      "type": "package",
+      "path": "mediatr/10.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.10.0.1.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Contracts/1.0.1": {
+      "sha512": "NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
+      "type": "package",
+      "path": "mediatr.contracts/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.Contracts.dll",
+        "lib/net461/MediatR.Contracts.xml",
+        "lib/netstandard2.0/MediatR.Contracts.dll",
+        "lib/netstandard2.0/MediatR.Contracts.xml",
+        "mediatr.contracts.1.0.1.nupkg.sha512",
+        "mediatr.contracts.nuspec"
+      ]
+    },
     "Microsoft.CSharp/4.5.0": {
       "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
@@ -5805,23 +5859,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrador\\.nuget\\packages\\": {},
+    "C:\\Users\\espin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\LivrosAnimados.Identidade.API\\LivrosAnimados.Identidade.API.csproj",
+      "projectUniqueName": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\LivrosAnimados.Identidade.API\\LivrosAnimados.Identidade.API.csproj",
       "projectName": "LivrosAnimados.Identidade.API",
-      "projectPath": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\LivrosAnimados.Identidade.API\\LivrosAnimados.Identidade.API.csproj",
-      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\LivrosAnimados.Identidade.API\\obj\\",
+      "projectPath": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\LivrosAnimados.Identidade.API\\LivrosAnimados.Identidade.API.csproj",
+      "packagesPath": "C:\\Users\\espin\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\LivrosAnimados.Identidade.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5830,19 +5884,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/neobpo/_packaging/Products.BuildingBlocks/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/neobpo/_packaging/Products.BuildingBlocksEF31/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.CrossCutingIoC\\LivrosAnimados.Identidade.CrossCutingIoC.csproj": {
-              "projectPath": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.CrossCutingIoC\\LivrosAnimados.Identidade.CrossCutingIoC.csproj"
+            "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.CrossCutingIoC\\LivrosAnimados.Identidade.CrossCutingIoC.csproj": {
+              "projectPath": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.CrossCutingIoC\\LivrosAnimados.Identidade.CrossCutingIoC.csproj"
             },
-            "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.Repository\\LivrosAnimados.Identidade.Repository.csproj": {
-              "projectPath": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.Repository\\LivrosAnimados.Identidade.Repository.csproj"
+            "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.Repository\\LivrosAnimados.Identidade.Repository.csproj": {
+              "projectPath": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.Repository\\LivrosAnimados.Identidade.Repository.csproj"
             }
           }
         }
@@ -5876,6 +5928,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.24, 3.1.24]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5884,7 +5942,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,6 +13,8 @@ namespace LivrosAnimados.Identidade.Domain.Models
             PlanoId = plano.Id;
             Plano = plano;
             DataCadastro = DateTime.Now;
+
+            Validar();
         }
 
         public string Nome { get; private set; }
@@ -24,9 +26,19 @@ namespace LivrosAnimados.Identidade.Domain.Models
 
         public Plano Plano { get; private set; }
 
+        private void Validar()
+        {
+            if (string.IsNullOrEmpty(Nome))
+                throw new DomainException("Nome do usuário não pode estar vazio");
+
+            if (DataNascimento == null || DataNascimento == default)
+                throw new DomainException("Data de nascimento do usuário não pode estar vazia");
+        }
+
         public void AlterarPlano(Plano plano)
         {
             Plano = plano;
+            PlanoId = plano.Id;
         }
     }
 }

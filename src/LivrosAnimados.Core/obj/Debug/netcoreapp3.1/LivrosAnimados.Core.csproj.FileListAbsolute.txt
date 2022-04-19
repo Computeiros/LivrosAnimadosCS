@@ -8,3 +8,13 @@ C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.dll
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.pdb
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\bin\Debug\netcoreapp3.1\LivrosAnimados.Core.deps.json
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\bin\Debug\netcoreapp3.1\LivrosAnimados.Core.dll
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\bin\Debug\netcoreapp3.1\LivrosAnimados.Core.pdb
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.csproj.AssemblyReference.cache
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.AssemblyInfoInputs.cache
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.AssemblyInfo.cs
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.csproj.CoreCompileInputs.cache
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.dll
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Core\obj\Debug\netcoreapp3.1\LivrosAnimados.Core.pdb

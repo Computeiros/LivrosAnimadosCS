@@ -1,5 +1,6 @@
 ﻿using LivrosAnimados.Core.DomainObjects;
 using System;
+using System.Threading.Tasks;
 
 namespace LivrosAnimados.Core.Data
 {

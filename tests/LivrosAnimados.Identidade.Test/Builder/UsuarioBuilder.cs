@@ -8,8 +8,7 @@ namespace LivrosAnimados.Identidade.Test.Builder
         public UsuarioBuilder(
             string nome = default,
             DateTime dataNascimento = default,
-            decimal moedas = default,
-            string email = default) : base(nome, dataNascimento, moedas, email)
+            string email = default) : base(nome, dataNascimento, email)
         {
         }
 

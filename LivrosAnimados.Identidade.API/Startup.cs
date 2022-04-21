@@ -1,5 +1,8 @@
+using AutoMapper;
+using LivrosAnimados.Identidade.API.Configurations.AutoMapper;
 using LivrosAnimados.Identidade.CrossCutingIoC;
 using LivrosAnimados.Identidade.Repository;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -26,6 +29,10 @@ namespace LivrosAnimados.Identidade.API
             services.AddDbContext<IdentidadeContext>(opt => opt.UseInMemoryDatabase("Database"));
 
             NativeInjectionIdentidade.ConfigurarDependencias(services);
+
+            services.AddAutoMapper(typeof(DomainToViewModelProfile), typeof(ViewModelToDomainProfile));
+
+            services.AddMediatR(typeof(Startup));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

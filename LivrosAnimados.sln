@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrosAnimados.Identidade.A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrosAnimados.Identidade.CrossCutingIoC", "src\LivrosAnimados.Identidade.CrossCutingIoC\LivrosAnimados.Identidade.CrossCutingIoC.csproj", "{B0D2C83B-53C9-49E3-AF64-65B4E3F6DFEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrosAnimados.Identidade.Test", "tests\LivrosAnimados.Identidade.Test\LivrosAnimados.Identidade.Test.csproj", "{F8ED5479-E50A-4DA1-8AE7-4A6013385F58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrosAnimados.Identidade.Test", "tests\LivrosAnimados.Identidade.Test\LivrosAnimados.Identidade.Test.csproj", "{F8ED5479-E50A-4DA1-8AE7-4A6013385F58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{E69C5BB2-5D48-4BBE-BB86-D2F5C629B33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing", "src\EventSourcing\EventSourcing.csproj", "{7494ADC0-E36A-4ECB-AF44-82E697850056}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +57,10 @@ Global
 		{F8ED5479-E50A-4DA1-8AE7-4A6013385F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8ED5479-E50A-4DA1-8AE7-4A6013385F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8ED5479-E50A-4DA1-8AE7-4A6013385F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7494ADC0-E36A-4ECB-AF44-82E697850056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7494ADC0-E36A-4ECB-AF44-82E697850056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7494ADC0-E36A-4ECB-AF44-82E697850056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7494ADC0-E36A-4ECB-AF44-82E697850056}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +75,7 @@ Global
 		{565F271E-FBF3-44EA-BF1A-DD5906424197} = {636A260B-1D63-4D2F-9B4A-8FE18B9EF267}
 		{B0D2C83B-53C9-49E3-AF64-65B4E3F6DFEE} = {636A260B-1D63-4D2F-9B4A-8FE18B9EF267}
 		{F8ED5479-E50A-4DA1-8AE7-4A6013385F58} = {636A260B-1D63-4D2F-9B4A-8FE18B9EF267}
+		{7494ADC0-E36A-4ECB-AF44-82E697850056} = {E69C5BB2-5D48-4BBE-BB86-D2F5C629B33E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {02346F30-F895-45A2-AC12-FC3C76B652E8}

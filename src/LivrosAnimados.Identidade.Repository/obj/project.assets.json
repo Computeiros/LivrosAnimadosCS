@@ -5851,23 +5851,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrador\\.nuget\\packages\\": {},
+    "C:\\Users\\espin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.Repository\\LivrosAnimados.Identidade.Repository.csproj",
+      "projectUniqueName": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.Repository\\LivrosAnimados.Identidade.Repository.csproj",
       "projectName": "LivrosAnimados.Identidade.Repository",
-      "projectPath": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.Repository\\LivrosAnimados.Identidade.Repository.csproj",
-      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.Repository\\obj\\",
+      "projectPath": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.Repository\\LivrosAnimados.Identidade.Repository.csproj",
+      "packagesPath": "C:\\Users\\espin\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\espin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5876,19 +5876,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/neobpo/_packaging/Products.BuildingBlocks/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/neobpo/_packaging/Products.BuildingBlocksEF31/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Core\\LivrosAnimados.Core.csproj": {
-              "projectPath": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Core\\LivrosAnimados.Core.csproj"
+            "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Core\\LivrosAnimados.Core.csproj": {
+              "projectPath": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Core\\LivrosAnimados.Core.csproj"
             },
-            "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.Domain\\LivrosAnimados.Identidade.Domain.csproj": {
-              "projectPath": "C:\\Users\\Administrador\\Documents\\Facul\\EngSoftware\\LivrosAnimados\\LivrosAnimados\\src\\LivrosAnimados.Identidade.Domain\\LivrosAnimados.Identidade.Domain.csproj"
+            "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.Domain\\LivrosAnimados.Identidade.Domain.csproj": {
+              "projectPath": "C:\\Dev\\Faculdade\\EngenhariaSoftwareII\\LivrosAnimadosCS\\src\\LivrosAnimados.Identidade.Domain\\LivrosAnimados.Identidade.Domain.csproj"
             }
           }
         }
@@ -5933,7 +5931,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

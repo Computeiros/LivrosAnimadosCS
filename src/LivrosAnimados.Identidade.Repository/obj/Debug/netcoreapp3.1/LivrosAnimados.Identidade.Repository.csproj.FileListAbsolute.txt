@@ -23,3 +23,14 @@ C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.dll
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.pdb
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.genruntimeconfig.cache
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.deps.json
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.runtimeconfig.json
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.runtimeconfig.dev.json
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.dll
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.pdb
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Core.dll
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.dll
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Core.pdb
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\bin\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Domain.pdb
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.csproj.CopyComplete
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.Repository\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.Repository.genruntimeconfig.cache

@@ -34,3 +34,5 @@ C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\obj\Debug\netcoreapp3.1\LivrosAnimados.Identidade.CrossCutingIoC.pdb
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\EventSourcing.dll
 C:\Users\Administrador\Documents\Facul\EngSoftware\LivrosAnimados\LivrosAnimados\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\EventSourcing.pdb
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\EventSourcing.dll
+C:\Dev\Faculdade\EngenhariaSoftwareII\LivrosAnimadosCS\src\LivrosAnimados.Identidade.CrossCutingIoC\bin\Debug\netcoreapp3.1\EventSourcing.pdb
